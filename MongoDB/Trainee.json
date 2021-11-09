@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "616d26afe267d0d3c24b01b3"
+  },
+  "Name": "Employee1",
+  "Address": "Kochi",
+  "Department": "Designing",
+  "Education": "Engineering"
+},{
+  "_id": {
+    "$oid": "616d2868e267d0d3c24b01b4"
+  },
+  "Name": "Employee2",
+  "Address": "Trivandrum",
+  "Department": "Sales",
+  "Education": "MBA"
+},{
+  "_id": {
+    "$oid": "616d288de267d0d3c24b01b5"
+  },
+  "Name": "Employee3",
+  "Address": "Kochi",
+  "Department": "Security Officer",
+  "Education": "Graduate"
+},{
+  "_id": {
+    "$oid": "616d28aee267d0d3c24b01b6"
+  },
+  "Name": "Employee4",
+  "Address": "Bangalore",
+  "Department": "Testing",
+  "Education": "Engineering"
+},{
+  "_id": {
+    "$oid": "616d28dee267d0d3c24b01b7"
+  },
+  "Name": "Employee5",
+  "Address": "Hyderabad",
+  "Department": "Analyst",
+  "Education": "Graduate"
+},{
+  "_id": {
+    "$oid": "616d28f9e267d0d3c24b01b8"
+  },
+  "Name": "Employee6",
+  "Address": "Chennai",
+  "Department": "Production",
+  "Education": "Engineering"
+},{
+  "_id": {
+    "$oid": "616d290ce267d0d3c24b01b9"
+  },
+  "Name": "Employee7",
+  "Address": "Kochi",
+  "Department": "Development",
+  "Education": "Engineering"
+},{
+  "_id": {
+    "$oid": "616d2925e267d0d3c24b01ba"
+  },
+  "Name": "Employee8",
+  "Address": "Hyderabad",
+  "Department": "Procurement",
+  "Education": "Graduate"
+},{
+  "_id": {
+    "$oid": "616d2946e267d0d3c24b01bb"
+  },
+  "Name": "Employee9",
+  "Address": "Trivandrum",
+  "Department": "Development",
+  "Education": "Engineering"
+},{
+  "_id": {
+    "$oid": "616d299ae267d0d3c24b01bc"
+  },
+  "Name": "Employee10",
+  "Address": "Bangalore",
+  "Department": "Security Officer",
+  "Education": "Graduate"
+}]

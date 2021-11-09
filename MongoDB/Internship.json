@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "616d330de267d0d3c24b01c9"
+  },
+  "Name": "Intern-1",
+  "Address": "Delhi",
+  "Department": "Intern-Sales",
+  "Education": "MBA"
+},{
+  "_id": {
+    "$oid": "616d335de267d0d3c24b01ca"
+  },
+  "Name": "Intern-2",
+  "Address": "Mumbai",
+  "Department": "Intern-Development",
+  "Education": "Engineering"
+}]
